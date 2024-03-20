@@ -1,1 +1,4 @@
-{ "code":"[[print("lua")]]"}
+{ 
+
+"code": " [[ local a = 'printfuk' print(a) ]] "
+}
